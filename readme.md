@@ -1,3 +1,2 @@
 200 karaですよkarakaraempty aaa
 てきすとをしゅうせいします
-テキストを追加しました
